@@ -71,8 +71,6 @@ class Paciente {
     public String toString() {
         return nome;
     }
-
-    // Getters e setters podem ser adicionados aqui
 }
 
 
